@@ -15,7 +15,7 @@ Python packages:
 Script works in Python 3
 
 ## Parametres of script
-"Input_files.zip" file contains test input data
+"Input_data.zip" file contains test input data
 * [1] optimization output file name (.txt)
 * [2] optimization input file name (.txt)
 * [3] vizualization output file name (.obj)
